@@ -13,10 +13,10 @@ This specialization covers:
 
 ## Courses in this Program
 
-1) [Machine Learning Foundation: A Case Study Approach](./R%020Basics) 
-2) [Regression](./Data%020Types)
-3) [Classification](./Vectors)
-4) [Clustering and Retrieval](./Sorting)
+1) [Machine Learning Foundation: A Case Study Approach](https://github.com/AlessandroCorradini/University-of-Washington-Machine-Learning-Specialization/tree/master/01%20-%20Machine%20Learning%20Foundations%20A%20Case%20Study%20Approach) 
+2) [Regression](https://github.com/AlessandroCorradini/University-of-Washington-Machine-Learning-Specialization/tree/master/02%20-%20Regression)
+3) [Classification](https://github.com/AlessandroCorradini/University-of-Washington-Machine-Learning-Specialization/tree/master/03%20-%20Classification)
+4) [Clustering and Retrieval](https://github.com/AlessandroCorradini/University-of-Washington-Machine-Learning-Specialization/tree/master/04%20-%20Clustering%20and%20Retrieval)
 
 ## Certificate of Completition
 You can see the [Certificate of Completition](https://github.com/AlessandroCorradini/Certificates/blob/master/Coursera%20-%20Machine%20Learning%20Specialization%20Certificate%20-%20University%20of%20Washington.pdf) and other certificates in my [Certificates Repo](https://github.com/AlessandroCorradini/Certificates) that contains all my certificates obtained through my journey as a self-made Data Science and better developer.
