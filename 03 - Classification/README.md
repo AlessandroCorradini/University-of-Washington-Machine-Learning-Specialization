@@ -33,8 +33,8 @@ This course covers:
 - Precision-Recall
 - Scaling to Huge Datasets & Online Learning
 
-## Certificate of Completition
-You can see the [Certificate of Completition](https://github.com/AlessandroCorradini/Certificates/blob/master/Coursera%20-%20Machine%20Learning%20Classification%20Certificate%20-%20University%20of%20Washington.pdf) and other certificates in my [Certificates Repo](https://github.com/AlessandroCorradini/Certificates) that contains all my certificates obtained through my journey as a self-made Data Science and better developer.
+## Certificate of Completion
+You can see the [Certificate of Completion](https://github.com/AlessandroCorradini/Certificates/blob/master/Coursera%20-%20Machine%20Learning%20Classification%20Certificate%20-%20University%20of%20Washington.pdf) and other certificates in my [Certificates Repo](https://github.com/AlessandroCorradini/Certificates) that contains all my certificates obtained through my journey as a self-made Data Science and better developer.
 
 <br/>
 
